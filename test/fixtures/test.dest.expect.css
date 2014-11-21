@@ -1,0 +1,16 @@
+.testClass {
+	margin: 0px 0px 0px 1px;
+
+	background: #000000 url("/img/path/i.jpg") no-repaet;
+
+	font-size: 0.05em;
+}
+
+.anotherClass
+{
+	display: inline-block;
+
+	user-select: none;
+
+	color: blue;
+}
