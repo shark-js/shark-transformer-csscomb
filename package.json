@@ -1,6 +1,6 @@
 {
   "name": "shark-transformer-csscomb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "shark-transformer-csscomb",
   "main": "lib/transformer-csscomb.js",
   "scripts": {
